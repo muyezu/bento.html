@@ -1,0 +1,31 @@
+{
+
+    "bento":[
+     {
+      "type":"salmon",
+      "price":7.79,
+      "ingridients":[
+          "rice",
+          "ume",
+          "lemmon",
+          "gobo",
+          "ube",
+          "edamame"
+]
+},
+
+{
+    "type":"soft shell crab",
+    "price":9.99,
+    "ingridients":[
+        "rice",
+        "ume",
+        "crab",
+        "furicake",
+        "ube",
+        "edamame"
+]
+}
+
+]
+}
